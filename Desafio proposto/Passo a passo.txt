@@ -1,0 +1,31 @@
+
+ /c/Workspace
+$ git clone https://github.com/Gabriellevital/dio.me_desafio.git
+
+
+ /c/Workspace
+$ cd dio.me_desafio/
+
+ /c/Workspace/dio.me_desafio (main)
+$ git status
+
+
+/c/Workspace/dio.me_desafio (main)
+$ git status
+
+ /c/Workspace/dio.me_desafio (main)
+$ git add .
+
+
+ /c/Workspace/dio.me_desafio (main)
+$ git commit -m "Inclusão das anotações ao desafio do curso"
+
+
+ /c/Workspace/dio.me_desafio (main)
+$ git status
+
+
+/c/Workspace/dio.me_desafio (main)
+$ git push origin main
+
+
